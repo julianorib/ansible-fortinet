@@ -16,8 +16,9 @@ mkdir fortigate && cd fortigate
 ```
 
 ## Instalar collection Fortios.
+```
 ansible-galaxy collection install fortinet.fortios
-
+```
 
 ## Criar arquivo de inventário.
 ```
